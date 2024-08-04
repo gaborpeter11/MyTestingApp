@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.main_screen
 
 import androidx.lifecycle.ViewModel
 import dagger.hilt.android.lifecycle.HiltViewModel
@@ -6,5 +6,4 @@ import javax.inject.Inject
 
 @HiltViewModel
 class HomeViewModel @Inject constructor() : ViewModel() {
-    // Define state and logic specific to the HomeScreen here
 }

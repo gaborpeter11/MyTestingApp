@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.scratch_screen
 
 import androidx.activity.compose.BackHandler
 import androidx.compose.foundation.layout.Arrangement
